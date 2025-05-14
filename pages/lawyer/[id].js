@@ -25,7 +25,7 @@ export default function LawyerProfile() {
         });
 
         window.talkSession = new Talk.Session({
-          appId: "YOUR_TALKJS_APP_ID",
+          appId: "tlEIp8I6",
           me: me
         });
 
